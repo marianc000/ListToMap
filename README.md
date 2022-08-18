@@ -1,6 +1,5 @@
-# How to log method execution in Java 17
-AspectJ maven plugin allows logging execution of any selected methods without changes in the application code. The plugin still does not support Java 17, one has to use its alternative.
-
-Sample code for my post https://marian-caikovski.medium.com/logging-method-execution-in-java-17-46e6775efd40 about logging with AspectJ in application running on modern Java 17.
+# Transforming lists into maps using Java Stream API
+Impressively convenient API for converting lists into maps
+Sample code for my post https://marian-caikovski.medium.com/transforming-lists-into-maps-using-java-stream-api-b29ef743b440 reviewing typical maps 
 
 
